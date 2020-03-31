@@ -9,7 +9,7 @@ class Shoe
   end 
   
   def cobble
-    @condition = "new"
+    @condition = "new" #remember, :condition is already set as an instantiated variable 
     puts "Your shoe is as good as new!"
   end 
   
