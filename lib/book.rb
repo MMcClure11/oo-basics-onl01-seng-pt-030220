@@ -53,6 +53,7 @@ class Book
   end
   
   def turn_page
+    puts 
   end
   
 end
